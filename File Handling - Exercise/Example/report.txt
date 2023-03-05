@@ -1,0 +1,8 @@
+.html
+- - - example.html
+.py
+- - - test.py
+.txt
+- - - a.txt
+- - - b.txt
+- - - c.txt
